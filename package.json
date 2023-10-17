@@ -1,0 +1,13 @@
+{
+  "name": "countdown.comp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "custom-script": "node your-custom-script.js",
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
